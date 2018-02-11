@@ -241,3 +241,7 @@ padding:3px 10px;
 .hero-comic{
   background-color: #fed330;
 }
+
+.no-padding{
+  padding:0 !important;
+}
